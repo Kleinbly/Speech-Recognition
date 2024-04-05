@@ -1,0 +1,3 @@
+pyaudio==0.2.11
+tensorflow==2.7.0
+SpeechRecognition==3.8.1
